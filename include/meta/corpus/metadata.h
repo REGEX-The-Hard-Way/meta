@@ -14,7 +14,8 @@
 #include <string>
 #include <vector>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/io/packed.h"
 #include "meta/util/optional.h"

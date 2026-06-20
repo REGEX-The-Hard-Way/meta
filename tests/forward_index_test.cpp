@@ -10,7 +10,7 @@
 #include "bandit/bandit.h"
 #include "create_config.h"
 #include "meta/caching/all.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/forward_index.h"
 #include "meta/index/postings_data.h"
 #include "meta/io/filesystem.h"

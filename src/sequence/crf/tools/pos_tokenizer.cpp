@@ -7,7 +7,7 @@
 #include <unordered_set>
 #include "meta/analyzers/filters/ptb_normalizer.h"
 #include "meta/analyzers/tokenizers/icu_tokenizer.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/logging/logger.h"
 #include "meta/sequence/crf/crf.h"
 #include "meta/sequence/crf/tagger.h"

@@ -8,7 +8,7 @@
 #include "bandit/bandit.h"
 #include "meta/corpus/metadata.h"
 #include "meta/corpus/metadata_parser.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/io/filesystem.h"
 
 using namespace bandit;

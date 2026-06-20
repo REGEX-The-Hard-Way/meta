@@ -4,7 +4,7 @@
  */
 
 #include <cassert>
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/classify/classifier/naive_bayes.h"
 #include "meta/io/packed.h"
 

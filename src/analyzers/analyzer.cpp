@@ -14,7 +14,7 @@
 #include "meta/analyzers/filters/porter2_filter.h"
 #include "meta/analyzers/tokenizers/icu_tokenizer.h"
 #include "meta/corpus/document.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/io/mmap_file.h"
 #include "meta/util/shim.h"
 #include "meta/utf/utf.h"

@@ -8,7 +8,7 @@
 
 #include <deque>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/analyzers/analyzer.h"
 #include "meta/corpus/corpus_factory.h"
 #include "meta/embeddings/cooccurrence_counter.h"

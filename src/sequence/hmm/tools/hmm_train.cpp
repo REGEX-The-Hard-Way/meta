@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/hashing/probe_map.h"
 #include "meta/io/filesystem.h"
 #include "meta/io/gzstream.h"

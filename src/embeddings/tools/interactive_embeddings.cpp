@@ -12,7 +12,7 @@
 #include <string>
 #include <stdexcept>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/embeddings/word_embeddings.h"
 #include "meta/logging/logger.h"
 #include "meta/math/vector.h"

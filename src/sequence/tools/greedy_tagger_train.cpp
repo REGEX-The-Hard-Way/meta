@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/io/filesystem.h"
 #include "meta/logging/logger.h"
 #include "meta/sequence/perceptron.h"

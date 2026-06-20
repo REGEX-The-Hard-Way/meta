@@ -15,7 +15,8 @@
 #include <unordered_map>
 #include <vector>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/lm/lm_state.h"
 #include "meta/lm/sentence.h"

@@ -3,7 +3,7 @@
  */
 
 #include <vector>
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/corpus/document.h"
 #include "meta/sequence/sequence.h"
 #include "meta/sequence/crf/tagger.h"

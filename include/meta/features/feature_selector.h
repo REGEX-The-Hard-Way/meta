@@ -15,7 +15,8 @@
 #include <string>
 #include <vector>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/index/disk_index.h"
 #include "meta/io/filesystem.h"

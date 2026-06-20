@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/classify/confusion_matrix.h"
 #include "meta/logging/logger.h"
 #include "meta/sequence/crf/crf.h"

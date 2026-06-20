@@ -4,7 +4,7 @@
  */
 
 #include <iostream>
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/meta.h"
 #include "meta/lm/diff.h"
 #include "meta/lm/sentence.h"

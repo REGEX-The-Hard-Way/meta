@@ -10,7 +10,7 @@
 
 #include <thread>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/embeddings/cooccur_iterator.h"
 #include "meta/io/filesystem.h"
 #include "meta/io/packed.h"

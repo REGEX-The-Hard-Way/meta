@@ -6,7 +6,7 @@
 
 #include <numeric>
 #include <random>
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/postings_data.h"
 #include "meta/classify/classifier/winnow.h"
 

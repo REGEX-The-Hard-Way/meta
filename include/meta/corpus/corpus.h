@@ -14,7 +14,8 @@
 #include <mutex>
 #include <stdexcept>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/corpus/document.h"
 #include "meta/corpus/metadata_parser.h"

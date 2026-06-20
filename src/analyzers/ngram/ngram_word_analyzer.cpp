@@ -6,7 +6,7 @@
 #include <string>
 #include <vector>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/corpus/document.h"
 #include "meta/analyzers/ngram/ngram_word_analyzer.h"
 #include "meta/analyzers/token_stream.h"

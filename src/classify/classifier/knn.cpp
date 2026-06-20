@@ -6,7 +6,7 @@
 #include <vector>
 #include <unordered_map>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/classify/classifier/knn.h"
 #include "meta/corpus/document.h"
 #include "meta/index/postings_data.h"

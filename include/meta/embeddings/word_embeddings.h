@@ -13,7 +13,8 @@
 #include <istream>
 #include <stdexcept>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/hashing/probe_map.h"
 #include "meta/util/aligned_allocator.h"

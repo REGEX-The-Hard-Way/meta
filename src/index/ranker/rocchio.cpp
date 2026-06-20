@@ -3,7 +3,7 @@
  * @author Chase Geigle
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 
 #include "meta/hashing/probe_map.h"
 #include "meta/index/forward_index.h"

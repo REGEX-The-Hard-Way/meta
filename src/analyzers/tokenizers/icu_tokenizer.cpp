@@ -6,7 +6,7 @@
 #include <algorithm>
 #include <deque>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/analyzers/tokenizers/icu_tokenizer.h"
 #include "meta/utf/segmenter.h"
 #include "meta/utf/utf.h"

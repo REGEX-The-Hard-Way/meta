@@ -3,7 +3,7 @@
  * @author Chase Geigle
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/ranker/all.h"
 #include "meta/index/ranker/ranker_factory.h"
 

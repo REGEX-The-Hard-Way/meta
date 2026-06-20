@@ -3,7 +3,7 @@
  * @author Chase Geigle
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/classify/classifier/all.h"
 #include "meta/classify/classifier_factory.h"
 

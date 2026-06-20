@@ -8,7 +8,7 @@
  * (This is mainly for sanity checking.)
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/embeddings/cooccur_iterator.h"
 #include "meta/io/binary.h"
 #include "meta/logging/logger.h"

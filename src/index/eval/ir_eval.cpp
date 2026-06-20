@@ -8,7 +8,7 @@
 #include <iomanip>
 #include <fstream>
 #include <sstream>
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/eval/ir_eval.h"
 #include "meta/util/mapping.h"
 #include "meta/util/printing.h"

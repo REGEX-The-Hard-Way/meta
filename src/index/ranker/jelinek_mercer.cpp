@@ -3,7 +3,7 @@
  * @author Sean Massung
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/ranker/jelinek_mercer.h"
 #include "meta/index/score_data.h"
 

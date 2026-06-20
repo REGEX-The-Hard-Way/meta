@@ -10,7 +10,7 @@
 #include "meta/sequence/io/ptb_parser.h"
 #include "meta/sequence/sequence.h"
 #include "meta/util/shim.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 
 using namespace meta;
 

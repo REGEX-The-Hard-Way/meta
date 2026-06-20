@@ -7,7 +7,7 @@
 #include "meta/sequence/sequence_analyzer.h"
 #include "meta/sequence/crf/crf.h"
 #include "meta/sequence/io/ptb_parser.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 
 using namespace meta;
 

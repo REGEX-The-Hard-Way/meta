@@ -7,7 +7,7 @@
 #include "meta/topics/lda_scvb.h"
 #include "meta/topics/parallel_lda_gibbs.h"
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 
 #include "meta/caching/no_evict_cache.h"
 #include "meta/index/forward_index.h"

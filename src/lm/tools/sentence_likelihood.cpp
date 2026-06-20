@@ -7,7 +7,7 @@
 
 #include "meta/analyzers/all.h"
 #include "meta/analyzers/token_stream.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/lm/language_model.h"
 #include "meta/logging/logger.h"
 #include "meta/util/time.h"

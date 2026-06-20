@@ -12,7 +12,8 @@
 
 #include <istream>
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/config.h"
 #include "meta/regression/models/regressor.h"
 #include "meta/util/factory.h"

@@ -9,7 +9,8 @@
 #ifndef META_DIFF_ANALYZER_H_
 #define META_DIFF_ANALYZER_H_
 
-#include "cpptoml.h"
+#include <limits>
+#include "meta/cpptoml.h"
 #include "meta/lm/diff.h"
 #include "meta/analyzers/analyzer_factory.h"
 #include "meta/analyzers/analyzer.h"

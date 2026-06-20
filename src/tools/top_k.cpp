@@ -3,7 +3,7 @@
  * @author Sean Massung
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/analyzers/analyzer.h"
 #include "meta/analyzers/filters/all.h"
 #include "meta/corpus/corpus.h"

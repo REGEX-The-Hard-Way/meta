@@ -3,7 +3,7 @@
  * @author Sean Massung
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/corpus/all.h"
 #include "meta/corpus/corpus.h"
 #include "meta/io/filesystem.h"

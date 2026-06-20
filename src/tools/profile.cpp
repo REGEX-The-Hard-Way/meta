@@ -12,7 +12,7 @@
 #include "meta/analyzers/filters/all.h"
 #include "meta/analyzers/ngram/ngram_word_analyzer.h"
 #include "meta/corpus/document.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/io/filesystem.h"
 #include "meta/parser/sr_parser.h"
 #include "meta/sequence/io/ptb_parser.h"

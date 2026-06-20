@@ -5,7 +5,7 @@
 
 #include <stdexcept>
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/index/ranker/dirichlet_prior.h"
 #include "meta/index/ranker/kl_divergence_prf.h"
 #include "meta/index/ranker/unigram_mixture.h"

@@ -3,7 +3,7 @@
  * @author Chase Geigle
  */
 
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 #include "meta/analyzers/all.h"
 #include "meta/analyzers/token_stream.h"
 #include "meta/logging/logger.h"

@@ -10,7 +10,7 @@
 
 #include "bandit/bandit.h"
 #include "classifier_test_helper.h"
-#include "cpptoml.h"
+#include "meta/cpptoml.h"
 
 using namespace bandit;
 using namespace meta;
