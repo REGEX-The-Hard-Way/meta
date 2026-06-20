@@ -13,6 +13,7 @@
 
 #include <array>
 #include <cmath>
+#include <cstdint>
 #include <istream>
 #include <limits>
 #include <ostream>

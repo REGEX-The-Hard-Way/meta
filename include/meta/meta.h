@@ -13,6 +13,7 @@
 #define META_H_
 
 #include <cstdint>
+#include <stdexcept>
 #include <string>
 
 #include "meta/util/identifiers.h"

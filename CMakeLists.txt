@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2.0)
+cmake_minimum_required(VERSION 3.5.0)
 project(meta)
 
 option(ENABLE_LIBCXX "Use libc++ for the C++ standard library (only for clang)" ON)
@@ -15,7 +15,8 @@ set(MeTA_VERSION
 
 # MeTA only requires C++11, but on all of our supported compilers at least
 # C++1y support exists, so we therefore set the standard to 14
-set(CMAKE_CXX_STANDARD 14)
+# NOTE: upgraded to C++17 for ICU 78.x / GCC 15 compatibility
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 

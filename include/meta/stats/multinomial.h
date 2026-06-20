@@ -11,6 +11,7 @@
 
 #include <cstdint>
 #include <random>
+#include <stdexcept>
 
 #include "meta/config.h"
 #include "meta/io/packed.h"
